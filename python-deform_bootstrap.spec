@@ -12,7 +12,7 @@ Release:	1
 License:	BSD-derived (http://www.repoze.org/LICENSE.txt)
 Group:		Libraries/Python
 Source0:	http://pypi.python.org/packages/source/d/deform_bootstrap/%{module}-%{version}.tar.gz
-# Source0-md5:	faf9054ad7c89457fe3ae1e3c0c15b97
+# Source0-md5:	82b77818ae4d865127888c86b6598a07
 URL:		http://pypi.python.org/pypi/deform_bootstrap
 BuildRequires:	python-distribute
 BuildRequires:	rpm-pythonprov
