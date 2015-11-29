@@ -16,7 +16,7 @@ Source0:	http://pypi.python.org/packages/source/d/deform_bootstrap/%{module}-%{v
 URL:		http://pypi.python.org/pypi/deform_bootstrap
 BuildRequires:	python-distribute
 BuildRequires:	rpm-pythonprov
-BuildRequires:	rpmbuild(macros) >= 1.219
+BuildRequires:	rpmbuild(macros) >= 1.710
 Requires:	python-deform
 Requires:	python-modules
 BuildArch:	noarch
