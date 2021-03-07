@@ -8,7 +8,7 @@
 Summary:	Twitter Bootstrap compatible widgets, templates and styles for the deform form library
 Name:		python-%{module}
 Version:	0.2.5
-Release:	2
+Release:	3
 License:	BSD-derived (http://www.repoze.org/LICENSE.txt)
 Group:		Libraries/Python
 Source0:	http://pypi.python.org/packages/source/d/deform_bootstrap/%{module}-%{version}.tar.gz
